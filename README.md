@@ -1,14 +1,15 @@
-# COMP20008-RecommenderSystem
+# COMP20008 Assignment 2 - Recommender System (Grade: 30.7/34)
 
 - Code for Assignment 2 for UniMelb subject: [Elements of Data Processing (COMP20008)](https://handbook.unimelb.edu.au/2024/subjects/comp20008) - Semester 2, 2024.
 - Assignment specification, final report, and final slides attached.
 - Relevant code inside `python-scripts` directory.
+- Code written by myself (Quoc Khang Do), Alexander Broadley, and Miles Sandles.
 
 ## Main tasks
 - Predicted user ratings of books using a content based recommender system - by using TF-IDF vectorisation on book titles and finding their cosine similarity.
 - Conducted extensive data preprocessing - cleaning and standardizing datasets.
 
-## `python-scripts` README
+## README: `python-scripts`
 
 ### DATA PREPROCESSING
 
